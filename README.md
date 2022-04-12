@@ -19,10 +19,10 @@ $ docker-compose up --build
 
 # Running the Node.js app manually
 
-1- Clone the repository
-2- Open the repository in VS code or your favourite IDE
-3- Run `npm i`
-4- Run `node server.js`
+- Clone the repository
+- Open the repository in VS code or your favourite IDE
+- Run `npm i`
+- Run `node server.js`
 
 <br />
 
