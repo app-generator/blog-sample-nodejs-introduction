@@ -1,11 +1,11 @@
-# NodeJS For Beginners
+# [NodeJS For Beginners](https://blog.appseed.us/node-js-for-beginners-practical-guide/)
 
 A simple Node.js application that returns `Hello World` when you browse `localhost:3000/api` on your local host and returns an attractive web page when you open localhost:3000 in your browser. 
 This `Node.js` application is also containerized and can be run with single docker command. We shall list both manual and Docker commands to run this application.
 
 <br />
 
-> Sample Code provided by [NodeJS For Beginners](#) - Provided by AppSeed
+> Sample Code provided by [NodeJS For Beginners](https://blog.appseed.us/node-js-for-beginners-practical-guide/) - Provided by AppSeed
 
 <br />
 
@@ -27,4 +27,4 @@ $ docker-compose up --build
 <br />
 
 ---
-[NodeJS For Beginners](#) - Sample Code provided by [AppSeed](https://appseed.us) 
+[NodeJS For Beginners](https://blog.appseed.us/node-js-for-beginners-practical-guide/) - Sample Code provided by [AppSeed](https://appseed.us) 
