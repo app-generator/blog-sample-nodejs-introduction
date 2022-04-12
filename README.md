@@ -24,6 +24,12 @@ $ docker-compose up --build
 - Run `npm i`
 - Run `node server.js`
 
+Once all the commands are executed, we should see a `pixel-perfect` Boostrap 5 Design running in the browser `http://localhost:3000`:
+
+<br />
+
+![NodeJS for Beginners - Practical Guide, blog article provided by AppSeed.](https://user-images.githubusercontent.com/51070104/163002840-6d5fb32c-2a7a-45f7-aa1c-72e742532980.jpg) 
+
 <br />
 
 ---
