@@ -1,4 +1,4 @@
-# [NodeJS For Beginners](https://blog.appseed.us/node-js-for-beginners-practical-guide/)
+# [Node JS For Beginners](https://blog.appseed.us/node-js-for-beginners-practical-guide/)
 
 A simple Node.js application that returns `Hello World` when you browse `localhost:3000/api` on your local host and returns an attractive web page when you open localhost:3000 in your browser. 
 This `Node.js` application is also containerized and can be run with single docker command. We shall list both manual and Docker commands to run this application.
@@ -33,4 +33,4 @@ Once all the commands are executed, we should see a `pixel-perfect` Boostrap 5 D
 <br />
 
 ---
-[NodeJS For Beginners](https://blog.appseed.us/node-js-for-beginners-practical-guide/) - Sample Code provided by [AppSeed](https://appseed.us) 
+[Node JS For Beginners](https://blog.appseed.us/node-js-for-beginners-practical-guide/) - Sample Code provided by [AppSeed](https://appseed.us) 
