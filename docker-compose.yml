@@ -1,0 +1,7 @@
+services:
+  node-sample:
+    container_name: node-sample-container
+    image: node-sample-image
+    build: .
+    ports:
+      - "3000:3000"
