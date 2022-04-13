@@ -9,7 +9,7 @@ This `Node.js` application is also containerized and can be run with single dock
 
 <br />
 
-# Running the Node.js app with Docker
+# Running the `NodeJS App` via Docker
 
 ```bash
 $ docker-compose up --build
@@ -17,7 +17,7 @@ $ docker-compose up --build
 
 <br />
 
-# Running the Node.js app manually
+# Running the `NodeJS App` manually
 
 - Clone the repository
 - Open the repository in VS code or your favourite IDE
